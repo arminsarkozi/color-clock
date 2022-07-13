@@ -1,2 +1,2 @@
-# color-clock
+# Color clock
 Coluorful clock
